@@ -1,4 +1,5 @@
 Customer Shopping Behavior Analysis
+
 📌 Project Overview
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. By leveraging Python for data engineering, PostgreSQL for deep-dive analytical querying, and Power BI for visual reporting, this project uncovers actionable insights into spending patterns, customer segments, product preferences, and subscription behavior to guide strategic business decisions.
 
